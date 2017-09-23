@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[Literais]]></title>
-      <url>/2017/09/22/Literais/</url>
+      <url>/guiajavascript/2017/09/22/Literais/</url>
       <content type="html"><![CDATA[<h1 id="LITERAIS"><a href="#LITERAIS" class="headerlink" title="LITERAIS"></a>LITERAIS</h1><p>Um literal é um valor de dados que aparece diretamente em um programa. Os valores seguintes são todos literais:</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">12                        // O número doze</div><div class="line">1.2                      // O número um ponto dois</div><div class="line"><span class="string">'Hello World'</span>       // uma string de texto</div><div class="line"><span class="string">'Olá'</span>                   // uma outra string</div></pre></td></tr></table></figure>
 ]]></content>
@@ -14,7 +14,7 @@
     
     <entry>
       <title><![CDATA[Comentários]]></title>
-      <url>/2017/09/22/Comentarios/</url>
+      <url>/guiajavascript/2017/09/22/Comentarios/</url>
       <content type="html"><![CDATA[<h1 id="COMENTARIOS-EM-JS"><a href="#COMENTARIOS-EM-JS" class="headerlink" title="COMENTÁRIOS EM JS"></a>COMENTÁRIOS EM JS</h1><p>A sintaxe dos comentários em JavaScript é semelhante como em C++ e em muitas outras linguagens:</p>
 <h3 id="Criar-um-comentario"><a href="#Criar-um-comentario" class="headerlink" title="Criar um comentário"></a>Criar um comentário</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"> // comentário de uma linha</div><div class="line"> </div><div class="line">/* isto é um comentário longo</div><div class="line">   de múltiplas linhas.</div><div class="line"> */</div></pre></td></tr></table></figure>
 <p>Mais info: <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Comentários" target="_blank" rel="external">Leia</a></p>
@@ -31,7 +31,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2017/09/22/hello-world/</url>
+      <url>/guiajavascript/2017/09/22/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
