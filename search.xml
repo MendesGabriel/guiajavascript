@@ -5,13 +5,8 @@
     <entry>
       <title><![CDATA[Identificadores]]></title>
       <url>/guiajavascript/2017/09/23/Identificadores/</url>
-      <content type="html"><![CDATA[<h1 id="Identificadores"><a href="#Identificadores" class="headerlink" title="Identificadores"></a>Identificadores</h1><p>Um <strong>identificador</strong> é simplesmente um nome. Em JavaScript, os identificadores são usados para dar nomes a variáveis e funções e para fornecer rótulos para certos laços no código JavaScript. Um identificador JavaScript deve começar com uma ;etra, um sublinhado (_) ou um cifrão ($). Os dígitos não são permitidos como primeiro caractere.</p>
-<h2 id="Identificadores-validos"><a href="#Identificadores-validos" class="headerlink" title="Identificadores válidos:"></a>Identificadores válidos:</h2><pre><code class="bash">i
-minha_variavel
-v44
-_vaiCorinthians
-<span class="variable">$myvar</span>
-</code></pre>
+      <content type="html"><![CDATA[<h1 id="Identificadores"><a href="#Identificadores" class="headerlink" title="Identificadores"></a>Identificadores</h1><p>Um <strong>identificador</strong> é simplesmente um nome. Em JavaScript, os identificadores são usados para dar nomes a variáveis e funções e para fornecer rótulos para certos laços no código JavaScript. Um identificador JavaScript deve começar com uma letra, um sublinhado (_) ou um cifrão ($). Os dígitos não são permitidos como primeiro caractere.</p>
+<h3 id="Identificadores-validos"><a href="#Identificadores-validos" class="headerlink" title="Identificadores válidos:"></a>Identificadores válidos:</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">i</div><div class="line">minha_variavel</div><div class="line">v44</div><div class="line">_vaiCorinthians</div><div class="line">$myvar</div></pre></td></tr></table></figure>
 ]]></content>
       
         
@@ -21,7 +16,7 @@ _vaiCorinthians
       <title><![CDATA[Literais]]></title>
       <url>/guiajavascript/2017/09/22/Literais/</url>
       <content type="html"><![CDATA[<h1 id="LITERAIS"><a href="#LITERAIS" class="headerlink" title="LITERAIS"></a>LITERAIS</h1><p>Um literal é um valor de dados que aparece diretamente em um programa. Os valores seguintes são todos literais:</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">12                        // O número doze</div><div class="line">1.2                      // O número um ponto dois</div><div class="line"><span class="string">'Hello World'</span>       // uma string de texto</div><div class="line"><span class="string">'Olá'</span>                   // uma outra string</div></pre></td></tr></table></figure>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="number">12</span>                        <span class="comment">// O número doze</span></div><div class="line"><span class="number">1.2</span>                      <span class="comment">// O número um ponto dois</span></div><div class="line"><span class="string">'Hello World'</span>       <span class="comment">// uma string de texto</span></div><div class="line"><span class="string">'Olá'</span>                   <span class="comment">// uma outra string</span></div></pre></td></tr></table></figure>
 ]]></content>
       
         
@@ -31,7 +26,7 @@ _vaiCorinthians
       <title><![CDATA[Comentários]]></title>
       <url>/guiajavascript/2017/09/22/Comentarios/</url>
       <content type="html"><![CDATA[<h1 id="COMENTARIOS-EM-JS"><a href="#COMENTARIOS-EM-JS" class="headerlink" title="COMENTÁRIOS EM JS"></a>COMENTÁRIOS EM JS</h1><p>A sintaxe dos comentários em JavaScript é semelhante como em C++ e em muitas outras linguagens:</p>
-<h3 id="Criar-um-comentario"><a href="#Criar-um-comentario" class="headerlink" title="Criar um comentário"></a>Criar um comentário</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"> // comentário de uma linha</div><div class="line"> </div><div class="line">/* isto é um comentário longo</div><div class="line">   de múltiplas linhas.</div><div class="line"> */</div></pre></td></tr></table></figure>
+<h3 id="Criar-um-comentario"><a href="#Criar-um-comentario" class="headerlink" title="Criar um comentário"></a>Criar um comentário</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"> <span class="comment">// comentário de uma linha</span></div><div class="line"> </div><div class="line"><span class="comment">/* isto é um comentário longo</span></div><div class="line"><span class="comment">   de múltiplas linhas.</span></div><div class="line"><span class="comment"> */</span></div></pre></td></tr></table></figure>
 <p>Mais info: <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values,_variables,_and_literals#Comentários" target="_blank" rel="external">Leia</a></p>
 ]]></content>
       
