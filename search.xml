@@ -3,6 +3,17 @@
   
     
     <entry>
+      <title><![CDATA[Palavras Reservadas]]></title>
+      <url>/guiajavascript/2017/09/25/Reservadas/</url>
+      <content type="html"><![CDATA[<h1 id="Palavras-reservadas"><a href="#Palavras-reservadas" class="headerlink" title="Palavras reservadas"></a>Palavras reservadas</h1><p>JavaScript tem várias palavras reservadas que você não pode usar como identificadores. São palavras-chave da própria linguagem.</p>
+<p>break<br>case<br>catch<br>continue<br>debugger<br>default<br>delete<br>do<br>else<br>false<br>finally<br>for<br>function<br>if<br>in<br>instanceof<br>new<br>null<br>return<br>switch<br>this<br>throw<br>true<br>try<br>typeof<br>var<br>void<br>while<br>with<br>class<em><br>const</em><br>enum<em><br>export</em><br>extends<em><br>import</em><br>super*</p>
+<h2 id="Palavras-reservadas-no-modo-restrito"><a href="#Palavras-reservadas-no-modo-restrito" class="headerlink" title="Palavras reservadas no modo restrito"></a>Palavras reservadas no modo restrito</h2><p>implements<br>interface<br>let<br>package<br>protected<br>public<br>static<br>yield</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Identificadores]]></title>
       <url>/guiajavascript/2017/09/23/Identificadores/</url>
       <content type="html"><![CDATA[<h1 id="Identificadores"><a href="#Identificadores" class="headerlink" title="Identificadores"></a>Identificadores</h1><p>Um <strong>identificador</strong> é simplesmente um nome. Em JavaScript, os identificadores são usados para dar nomes a variáveis e funções e para fornecer rótulos para certos laços no código JavaScript. Um identificador JavaScript deve começar com uma letra, um sublinhado (_) ou um cifrão ($). Os dígitos não são permitidos como primeiro caractere.</p>
